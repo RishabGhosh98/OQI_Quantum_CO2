@@ -1,0 +1,16 @@
+Quantum Reservoir Simulation for Geothermal & CO₂ Sequestration
+
+Copyright 2026 Infosys Limited
+
+Developed by Rishab Ghosh.
+
+This repository contains research code, proof-of-concept implementations,
+and supporting material exploring hybrid quantum-classical approaches for
+reservoir simulation, uncertainty quantification, and optimization in
+geothermal energy and carbon capture & storage applications.
+
+The corresponding use case has been included in the Open Quantum Institute
+(OQI) Use Case Repository hosted at CERN under the contributor organization
+Infosys.
+
+Licensed under the Apache License, Version 2.0.
