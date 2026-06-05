@@ -103,8 +103,13 @@ Future work would require collaboration with:
 Planned extensions include:
 
 * integration with real geological datasets
+* hybrid HPC–quantum simulation pipelines
+* large-scale QUBO formulations
+* uncertainty-aware optimization
+* benchmarking across quantum hardware platforms
 
 
+---
   # Copyright 2026 Rishab Ghosh
 
 Licensed under the Apache License, Version 2.0 (the "License");
@@ -115,8 +120,3 @@ You may obtain a copy of the License at
  Unless required by applicable law or agreed to in writing, software
  distributed under the License is distributed on an "AS IS" BASIS,
  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND.
-
-* hybrid HPC–quantum simulation pipelines
-* large-scale QUBO formulations
-* uncertainty-aware optimization
-* benchmarking across quantum hardware platforms
