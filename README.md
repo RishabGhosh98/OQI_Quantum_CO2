@@ -1,4 +1,5 @@
 # Quantum Reservoir Simulation for Geothermal & CO₂ Sequestration
+https://open-quantum-institute.cern/geothermal-and-co%e2%82%82-sequestration/
 
 This project is licensed under the MIT License.
 
